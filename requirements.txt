@@ -1,0 +1,7 @@
+flask
+requests
+pytz
+pyswisseph
+timezonefinder
+gunicorn
+python-dotenv
